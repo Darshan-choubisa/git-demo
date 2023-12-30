@@ -1,3 +1,3 @@
-# git-demo
-this is my first git repository
+# Git-Demo
+This is My First Git Repository
 Author - Darshan choubisa
